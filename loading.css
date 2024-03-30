@@ -29,7 +29,7 @@
   border-radius: 12px;
   overflow: hidden;
   margin-top: 10px;
-  margin-bottom: 28px;
+  margin-bottom: 2px;
   animation: fadeIn 4s 4.5s forwards;
   opacity: 0;
   /* delay of 8s to start after icon_logo */
@@ -74,10 +74,10 @@
   }
 }
 
-p.loading-text {
+.loading-text {
   color: #c8a1a1;
   font-weight: bold;
-  margin: 0;
+  margin: 0 0 10px 0;
   opacity: 0;
   animation: flashText 1.5s infinite alternate;
   animation-delay: 6s;
