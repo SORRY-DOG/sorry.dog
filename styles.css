@@ -160,17 +160,15 @@ img.sorry-dog-logo {
 }
 
 .twitter {
-  justify-content: center; /* Horizontally center */
-
   position: fixed;
   display: block;
-  /* right: 64px; */
-  bottom: 20px;
+  right: 64px;
+  top: 20px;
 
   svg {
     width: 32px;
     height: 32px;
-    fill: #822;
+    fill: var(--red);
   }
 }
 
