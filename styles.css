@@ -158,3 +158,19 @@ img.sorry-dog-logo {
     min-width: 220px;
   }
 }
+
+.twitter {
+  justify-content: center; /* Horizontally center */
+
+  position: fixed;
+  display: block;
+  /* right: 64px; */
+  bottom: 20px;
+
+  svg {
+    width: 32px;
+    height: 32px;
+    fill: #822;
+  }
+}
+
