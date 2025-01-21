@@ -163,7 +163,7 @@ img.sorry-dog-logo {
   position: fixed;
   display: block;
   left: 20px;
-  top: 20px;
+  bottom: 20px;
 
   svg {
     width: 32px;
