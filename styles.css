@@ -162,7 +162,7 @@ img.sorry-dog-logo {
 .twitter {
   position: fixed;
   display: block;
-  right: 64px;
+  left: 20px;
   top: 20px;
 
   svg {
